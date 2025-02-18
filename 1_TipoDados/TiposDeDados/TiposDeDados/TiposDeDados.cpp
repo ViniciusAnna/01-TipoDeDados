@@ -74,6 +74,7 @@ int main()
 	cout << "Sua idade em minutos e: " << minutos << endl;
 	cout << "Sua idade em segundos e: " << segundos << endl;
 
+
 	cout << "Qualquer tecla para sair...";
 	system("pause"); // somente no Windows
 
